@@ -2,20 +2,20 @@
 
 ## Table of Contents
 
-1. Project Overview
-2. Project Structure
-3. How to Use This Project
-4. Key UNIX Concepts Explained
-   - Pipes
-   - Fork
-   - Execve
-   - File Descriptors & Redirections
-   - Dup vs Dup2
-   - Wait vs Waitpid
-   - Additional System Calls Used
-5. Error Handling & Memory Management
-6. Bonus Features
-7. Example Usage
+1. [Project Overview](#1-project-overview)
+2. [Project Structure](#2-project-structure)
+3. [How to Use This Project](#3-how-to-use-this-project)
+4. [Key UNIX Concepts Explained](#4-key-unix-concepts-explained)
+   - [Pipes](#pipes)
+   - [Fork](#fork)
+   - [Execve](#execve)
+   - [File Descriptors & Redirections](#file-descriptors--redirections)
+   - [Dup vs Dup2](#dup-vs-dup2)
+   - [Wait vs Waitpid](#wait-vs-waitpid)
+   - [Additional System Calls Used](#additional-system-calls-used)
+5. [Error Handling & Memory Management](#5-error-handling--memory-management)
+6. [Bonus Features](#6-bonus-features)
+7. [Example Usage](#7-example-usage)
 
 ---
 
